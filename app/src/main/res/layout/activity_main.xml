@@ -11,7 +11,7 @@
         android:layout_width="222dp"
         android:layout_height="53dp"
         android:layout_marginBottom="8dp"
-        android:backgroundTint="#145E67"
+        android:backgroundTint="#1C7984"
         android:clickable="true"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
@@ -75,7 +75,7 @@
             android:layout_marginStart="60dp"
             android:layout_marginTop="20dp"
             android:layout_marginEnd="60dp"
-            android:backgroundTint="#145E67"
+            android:backgroundTint="#1C7984"
             android:text="Guardar Foto"
             android:textColor="@color/black"
             android:textStyle="bold" />
@@ -86,7 +86,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="60dp"
             android:layout_marginEnd="60dp"
-            android:backgroundTint="#145E67"
+            android:backgroundTint="#1C7984"
             android:text="Lista"
             android:textColor="@color/black"
             android:textStyle="bold" />
